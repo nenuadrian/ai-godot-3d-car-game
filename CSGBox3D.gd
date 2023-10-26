@@ -1,3 +1,0 @@
-extends CSGBox3D
-
-
